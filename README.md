@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Agatai
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning C# and ASP.NET
+- 📫 How to reach me kulkaiyr0107@gmail.com
